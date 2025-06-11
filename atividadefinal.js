@@ -158,4 +158,11 @@ console.log(reliquiaExiste2);
 console.table(reliquiaExiste2)
 
 // 11. Gere uma string com todos os planetas do inventário Alpha, separados por um delimitador.
+
 console.log(`Inventário Alpha como string: ${inventarioAlpha.join(', ')}`);
+
+// 12. Crie um texto com os nomes dos 10 primeiros itens da Beta, separados por vírgulas.
+
+let invetarioBeta10Primeiros = inventarioBeta.slice(0, 10);
+
+console.log(`Os 10 primeiros itens do inventário Beta como string: ${invetarioBeta10Primeiros.join(', ')}`);
