@@ -156,3 +156,6 @@ const reliquiaExiste2 = nomeItens2.includes("Nanofibra Luminosa");
 
 console.log(reliquiaExiste2);
 console.table(reliquiaExiste2)
+
+// 11. Gere uma string com todos os planetas do inventário Alpha, separados por um delimitador.
+console.log(`Inventário Alpha como string: ${inventarioAlpha.join(', ')}`);
