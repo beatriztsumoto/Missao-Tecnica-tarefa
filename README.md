@@ -31,4 +31,7 @@ Verifica se a “Relíquia de Zordon” está presente no inventário Beta
 Verifica se a “Nanofibra Luminosa” está presente no inventário Alpha
 
 # Desafio 11
-Gera uma string com todos os planetas do inventário Alpha, separados por um delimitador.
+Gera uma string com todos os planetas do inventário Alpha, separados por um delimitador
+
+# Desafio 12
+Cria um texto com os nomes dos 10 primeiros itens da Beta, separados por vírgulas
