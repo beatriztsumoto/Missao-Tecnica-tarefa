@@ -26,3 +26,6 @@ Utiliza o método shift para excluir o primeiro artefato do inventário Beta poi
 
 # Desafio 09 
 Verifica se a “Relíquia de Zordon” está presente no inventário Beta
+
+# Desafio 10
+Verifica se a “Nanofibra Luminosa” está presente no inventário Alpha
